@@ -1,1 +1,1 @@
-redme comming up
+BigBangSoftware is a software development compnay.
